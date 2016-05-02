@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gank.IO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="share_text">发现了一款非常美观的App「妹纸&amp;gank.io」</string>
+    <string name="action_share">分享</string>
+
+    <string name="action_refresh">刷新</string>
+    <string name="action_copy_url">复制链接</string>
+    <string name="action_open_url">打开链接</string>
+    <string name="tip_copy_done">复制成功</string>
+    <string name="tip_open_fail">打开失败，没有找到可以打开该链接的其它应用 :(</string>
+
+</resources>

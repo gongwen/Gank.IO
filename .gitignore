@@ -1,0 +1,9 @@
+/app/proguard-rules.pro
+/app/build
+/gradlew
+/gradlew.bat
+*.iml
+/.idea/workspace.xml
+/.idea/libraries
+/build
+/.idea
